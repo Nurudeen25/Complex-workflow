@@ -2,6 +2,7 @@
 // https://yourbasic.org/golang/http-server-example/
 // https://stackoverflow.com/a/42533360/2308522
 // https://www.digitalocean.com/community/tutorials/how-to-build-go-executables-for-multiple-platforms-on-ubuntu-16-04
+// this is for the artifact
 package main
 
 import (
