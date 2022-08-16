@@ -1,5 +1,3 @@
-// this is Using artifacts
-
 chmod +x ./linux/hello-server
 
 ./linux/hello-server &
