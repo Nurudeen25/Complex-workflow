@@ -1,4 +1,4 @@
-// this is for Using artifacts
+// this is Using artifacts
 
 chmod +x ./linux/hello-server
 
